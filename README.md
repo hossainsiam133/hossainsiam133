@@ -31,7 +31,6 @@ Passionate **competitive programmer**, **problem solver**, and **quick learner**
 ### 🧠 Codeforces  
 - Solved **500+ problems** across various categories  
 - **Current Rating:** 879 (Max: 985)  
-- **Specialist**
 
 ### 💥 CodeChef  
 - Solved **150+ problems**  
