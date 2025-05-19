@@ -2,7 +2,7 @@
 
 🎓 CSE Student | 💻 Competitive Programmer | 🚀 Future Software Engineer
 
-![Shohag's Photo](https://drive.google.com/drive/folders/1wABLuHvWESZV7KPRPdJ-RXOhZfDDXozS) <!-- Replace this with actual photo URL if available -->
+![Siam's Photo](./dp.jfif) <!-- Replace this with actual photo URL if available -->
 
 ---
 
