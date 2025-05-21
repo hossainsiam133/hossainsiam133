@@ -2,7 +2,7 @@
 
 🎓 CSE Student | 💻 Competitive Programmer | 🚀 Future Software Engineer
 
-![Siam's Photo](./dp-modified(2).png) <!-- Replace this with actual photo URL if available -->
+![Siam's Photo](./dp_main(1).png) <!-- Replace this with actual photo URL if available -->
 
 ---
 
