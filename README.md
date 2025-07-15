@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
+  <img src="./Github-Banner.png "/>
+<!--   Github-Banner.png -->
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" /> -->
 </div>
 
 ---
