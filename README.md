@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [Tailor-Made](https://github.com/hossainsiam133/Tailor-Made)  
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, Git**  
 - 👯 I’m collaborating on [Medi-ghor](https://github.com/asifmanowar9/Medi-ghor)  
-- 🤝 Looking for help with [Pharmacy Management System](https://github.com/asifmanowar9/Pharmacy_Management_System-java-projects)  
+- 🤝 Looking for help with [Web Developments](https://github.com/hossainsiam133/Web-Development)
 - 💬 Ask me about: **HTML, CSS, JS, Python, Git**  
 - 📫 Reach me at: **cpsiam221@gmail.com**  
 - ⚡ Fun fact: *I hacked NASA with HTML 😜*
