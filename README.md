@@ -3,9 +3,10 @@
 
 <div align="center">
   <img src="./Github-Banner.png "/>
-<!--   Github-Banner.png -->
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" /> -->
 </div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hossainsiam133&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -71,17 +72,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hossainsiam133&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hossainsiam133&theme=dracula&hide_border=false" alt="hossainsiam133 streak" />
 </p>
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
