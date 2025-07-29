@@ -18,7 +18,7 @@
 - 🤝 Looking for help with [Web Developments](https://github.com/hossainsiam133/Web-Development)
 - 💬 Ask me about: **HTML, CSS, JS, Python, Git**  
 - 📫 Reach me at: **cpsiam221@gmail.com**  
-- ⚡ Fun fact: *I hacked NASA with HTML 😜*
+- ⚡ Fun fact: *<br>**Linux:** Installing Linux is the best second decision<br>**Windows:** Then what's the first best decision<br>**Linux:** Deleting Windows😜*
 
 ---
 
