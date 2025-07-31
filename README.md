@@ -79,7 +79,9 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200" width="200" />
+  <img src="https://github.com/wahid1099/wahid1099/blob/output/github-contribution-grid-snake-dark.svg" alt="Description" width="500px" height="500px"/>
+
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200" width="200" /> -->
 </div>
 
 ---
